@@ -1,1 +1,1 @@
-# Sudoku-Silver
+# Sudoku-Solver
